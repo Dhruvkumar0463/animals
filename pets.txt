@@ -1,6 +1,11 @@
 ddfvdhscvsdh
 cat
+<<<<<<< HEAD
 heniiiii 
 he
 sparrow
+=======
+hen
+crow
+>>>>>>> 2f24d28d9bdcaadd39d2d49fc0db9e4e7767412c
 one more
