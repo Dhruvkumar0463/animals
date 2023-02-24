@@ -1,0 +1,4 @@
+collect_loginfo()
+{
+  save_cmd "ivmcmd 'show techsupport -i input_command_file' " "output_file"
+}
